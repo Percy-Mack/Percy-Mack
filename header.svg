@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="195" viewBox="0 0 1000 195">
+  <defs>
+    <linearGradient id="cyberpunkGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0e1a"/>
+      <stop offset="100%" style="stop-color:#12172e"/>
+    </linearGradient>
+    <linearGradient id="glowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff006e"/>
+      <stop offset="50%" style="stop-color:#9d4edd"/>
+      <stop offset="100%" style="stop-color:#00f5ff"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="textGlow">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1000" height="195" fill="url(#cyberpunkGrad)" rx="6"/>
+  
+  <!-- Grid lines -->
+  <g opacity="0.04" stroke="#00f5ff">
+    <line x1="0" y1="40" x2="1000" y2="40" stroke-width="0.5"/>
+    <line x1="0" y1="80" x2="1000" y2="80" stroke-width="0.5"/>
+    <line x1="0" y1="120" x2="1000" y2="120" stroke-width="0.5"/>
+    <line x1="0" y1="160" x2="1000" y2="160" stroke-width="0.5"/>
+    <line x1="200" y1="0" x2="200" y2="195" stroke-width="0.5"/>
+    <line x1="400" y1="0" x2="400" y2="195" stroke-width="0.5"/>
+    <line x1="600" y1="0" x2="600" y2="195" stroke-width="0.5"/>
+    <line x1="800" y1="0" x2="800" y2="195" stroke-width="0.5"/>
+  </g>
+  
+  <!-- Top accent line with glow -->
+  <rect x="0" y="0" width="1000" height="2" fill="url(#glowGrad)" filter="url(#glow)">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- Terminal dots -->
+  <circle cx="30" cy="20" r="5" fill="#ff006e"/>
+  <circle cx="50" cy="20" r="5" fill="#ffd600"/>
+  <circle cx="70" cy="20" r="5" fill="#00f5ff"/>
+  
+  <!-- Terminal title bar text -->
+  <text x="100" y="24" fill="#555" font-family="monospace" font-size="12">pranshu@saas-engineer ~ /production</text>
+  
+  <!-- Main name -->
+  <text x="500" y="82" fill="#ffffff" font-family="'Segoe UI', Arial, sans-serif" font-size="42" font-weight="bold" text-anchor="middle" filter="url(#textGlow)">
+    Pranshu Mishra
+  </text>
+  
+  <!-- Accent line under name -->
+  <rect x="350" y="95" width="300" height="1.5" fill="url(#glowGrad)" rx="1">
+    <animate attributeName="width" values="0;300;300" dur="1.5s" fill="freeze"/>
+    <animate attributeName="x" values="500;350;350" dur="1.5s" fill="freeze"/>
+  </rect>
+  
+  <!-- Subtitle -->
+  <text x="500" y="125" fill="#00f5ff" font-family="'Fira Code', monospace" font-size="15" text-anchor="middle" opacity="0.9">
+    Payment Systems Architect · Database Performance Engineer · SaaS Builder
+  </text>
+  
+  <!-- Blinking cursor -->
+  <rect x="747" y="112" width="8" height="16" fill="#ff006e">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- Status indicators -->
+  <g transform="translate(500, 155)" text-anchor="middle">
+    <text fill="#666" font-family="monospace" font-size="11">
+      <tspan fill="#00f5ff">▸</tspan> systems: <tspan fill="#00ff88">operational</tspan>
+      <tspan dx="20" fill="#00f5ff">▸</tspan> uptime: <tspan fill="#00ff88">99.9%</tspan>
+      <tspan dx="20" fill="#00f5ff">▸</tspan> payments: <tspan fill="#00ff88">processing</tspan>
+      <tspan dx="20" fill="#00f5ff">▸</tspan> queries: <tspan fill="#00ff88">optimized</tspan>
+    </text>
+  </g>
+  
+  <!-- Bottom accent line -->
+  <rect x="0" y="193" width="1000" height="2" fill="url(#glowGrad)" filter="url(#glow)">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- Corner accents -->
+  <path d="M0,10 L0,0 L10,0" stroke="#ff006e" stroke-width="2" fill="none"/>
+  <path d="M990,0 L1000,0 L1000,10" stroke="#ff006e" stroke-width="2" fill="none"/>
+  <path d="M0,185 L0,195 L10,195" stroke="#00f5ff" stroke-width="2" fill="none"/>
+  <path d="M990,195 L1000,195 L1000,185" stroke="#00f5ff" stroke-width="2" fill="none"/>
+</svg>
