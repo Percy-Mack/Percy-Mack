@@ -24,7 +24,7 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/YOUR_USERNAME?color=ff006e&style=for-the-badge&labelColor=0a0e1a&logo=star"/>
   </a>
   <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/YOUR_USERNAME?color=9d4edd&labelColor=0a0e1a&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/YOUR_USERNAME?color=9d4edd&labelColor=0a0e1a&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
   <img alt="views" src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS"/>
 </p>
