@@ -63,7 +63,7 @@ stack: [Node.js, MongoDB, React, TypeScript, Redis, BullMQ, FeathersJS]
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="metrics.svg">
   <img src="metrics.svg" width="100%" alt="Production Metrics Dashboard" />
 </a>
 
