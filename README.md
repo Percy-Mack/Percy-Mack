@@ -1,5 +1,5 @@
 <!-- Animated Cyberpunk Header — commit header.svg to your repo -->
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Percy-Mack">
   <img src="header.svg" width="100%" alt="Pranshu Mishra — SaaS Engineer" />
 </a>
 
@@ -14,19 +14,19 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/YOUR_TWITTER"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:your.email@example.com"><img width="32px" alt="Mail" title="Mail" src="https://i.imgur.com/OVizO8J.png"/></a>
+  <a href="mailto:pranshu@refrens.com"><img width="32px" alt="Mail" title="Mail" src="https://i.imgur.com/OVizO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://YOUR_USERNAME.github.io"><img width="32px" alt="Portfolio" title="Portfolio" src="https://i.imgur.com/mVm29vK.png"/></a>
+  <a href="https://Percy-Mack.github.io"><img width="32px" alt="Portfolio" title="Portfolio" src="https://i.imgur.com/mVm29vK.png"/></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/YOUR_USERNAME?color=ff006e&style=for-the-badge&labelColor=0a0e1a&logo=star"/>
+  <a href="https://github.com/Percy-Mack?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Percy-Mack?color=ff006e&style=for-the-badge&labelColor=0a0e1a&logo=star"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/YOUR_USERNAME?color=9d4edd&labelColor=0a0e1a&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  <a href="https://github.com/Percy-Mack?tab=followers">
+    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Percy-Mack?color=9d4edd&labelColor=0a0e1a&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
-  <img alt="views" src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS"/>
+  <img alt="views" src="https://komarev.com/ghpvc/?username=Percy-Mack&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS"/>
 </p>
 
 <br/>
@@ -80,11 +80,11 @@ stack: [Node.js, MongoDB, React, TypeScript, Redis, BullMQ, FeathersJS]
 
 <br/><br/>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Percy-Mack">
   <img src="projects-top.svg" width="100%" alt="Projects — Payment Orchestration, Subscription Engine, Lead System" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Percy-Mack">
   <img src="projects-bottom.svg" width="100%" alt="Projects — Query Optimizer, Marketing Automation, Config Migration" />
 </a>
 
@@ -134,16 +134,16 @@ stack: [Node.js, MongoDB, React, TypeScript, Redis, BullMQ, FeathersJS]
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&hide_border=true&background=0a0e1a&ring=ff006e&fire=00f5ff&currStreakLabel=00f5ff&sideLabels=9d4edd&currStreakNum=ffffff&sideNums=ffffff&dates=555555&stroke=1a1f36" alt="Streak Stats"/>
+    <img src="https://streak-stats.demolab.com/?user=Percy-Mack&hide_border=true&background=0a0e1a&ring=ff006e&fire=00f5ff&currStreakLabel=00f5ff&sideLabels=9d4edd&currStreakNum=ffffff&sideNums=ffffff&dates=555555&stroke=1a1f36" alt="Streak Stats"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0e1a&title_color=00f5ff&icon_color=ff006e&text_color=aaaaaa&ring_color=ff006e" alt="GitHub Stats"/>
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Percy-Mack&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0e1a&title_color=00f5ff&icon_color=ff006e&text_color=aaaaaa&ring_color=ff006e" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&langs_count=8&layout=compact&hide_border=true&bg_color=0a0e1a&title_color=00f5ff&text_color=aaaaaa" alt="Top Languages"/>
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Percy-Mack&langs_count=8&layout=compact&hide_border=true&bg_color=0a0e1a&title_color=00f5ff&text_color=aaaaaa" alt="Top Languages"/>
   </a>
 </p>
 
@@ -153,7 +153,7 @@ stack: [Node.js, MongoDB, React, TypeScript, Redis, BullMQ, FeathersJS]
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=YOUR_USERNAME&bg_color=0a0e1a&color=9d4edd&line=ff006e&point=00f5ff&hide_border=true&area=true&area_color=1a1040" alt="Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=Percy-Mack&bg_color=0a0e1a&color=9d4edd&line=ff006e&point=00f5ff&hide_border=true&area=true&area_color=1a1040" alt="Activity Graph"/>
   </a>
 </p>
 
@@ -215,5 +215,5 @@ const engineering = {
 </p>
 
 <p align="center">
-  <sub><code>if (you.need("payments", "performance", "scale"))</code> → <a href="mailto:your.email@example.com"><code>let's talk</code></a></sub>
+  <sub><code>if (you.need("payments", "performance", "scale"))</code> → <a href="mailto:pranshu@refrens.com"><code>let's talk</code></a></sub>
 </p>
