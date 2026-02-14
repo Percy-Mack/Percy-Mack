@@ -99,7 +99,7 @@ stack: [Node.js, MongoDB, React, TypeScript, Redis, BullMQ, FeathersJS]
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="techstack.svg">
   <img src="techstack.svg" width="100%" alt="Tech Stack" />
 </a>
 
