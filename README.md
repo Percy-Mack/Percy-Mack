@@ -10,13 +10,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/YOUR_TWITTER"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:pranshu@refrens.com"><img width="32px" alt="Mail" title="Mail" src="https://i.imgur.com/OVizO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://Percy-Mack.github.io"><img width="32px" alt="Portfolio" title="Portfolio" src="https://i.imgur.com/mVm29vK.png"/></a>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://twitter.com/YOUR_TWITTER"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="mailto:pranshu@refrens.com"><img width="32px" alt="Mail" title="Mail" src="https://i.imgur.com/OVizO8J.png"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://Percy-Mack.github.io"><img width="32px" alt="Portfolio" title="Portfolio" src="https://i.imgur.com/mVm29vK.png"/></a>
 </p>
 
 <p align="center">
